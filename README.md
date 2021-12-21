@@ -1,2 +1,2 @@
 # quiz-app-react
-![ScreenShot](Screenshot (435).png)
+![ScreenShot](https://github.com/anujb6/quiz-app-react/Screenshot (435).png)
